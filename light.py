@@ -406,7 +406,7 @@ def draw_objects():
     glutSolidCube(1.0)
     glPopMatrix()
 
-    glPushMatrix()
+  glPushMatrix()
     glTranslated(1,1.1,1)
     glScale(.1,.1,.1)
     glutSolidCube(1.0)
