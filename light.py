@@ -418,7 +418,6 @@ def draw_objects():
     glutSolidCube(1.0)
     glPopMatrix()
 
-
     glPopMatrix()
 
 def wave(x, z):
